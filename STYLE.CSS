@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    background: #f4f4f4;
+}
+
+header {
+    background: #3498db;
+    color: white;
+    text-align: center;
+    padding: 30px 0;
+}
+
+nav {
+    background: #333;
+    text-align: center;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background: #555;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    background: white;
+    border-radius: 5px;
+}
